@@ -23,6 +23,9 @@ Example:
 > init.py -s AAPL -b 1950-01-01 -e 2020-01-01
 ```
 
+![Example - Output (.png and .html available)](/AAPL_return-distribution_1980-12-12-2020-01-01.png)
+
+
 There is not data available for Apple Stock since 1950, hence automatically adjusted to earliest date (1980-12-12):
 
 
